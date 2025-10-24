@@ -1,6 +1,5 @@
 # User Profiles Management
-
-Short description: A modern React application for managing user profiles, built with Vite and styled using Tailwind CSS. Easily create, view, and manage user profiles with a responsive and intuitive interface.
+A modern React application for managing user profiles, Built with Vite and styled using Tailwind CSS. Easily Create, View and Manage user profiles with a responsive interface.
 
 ## Features
 
