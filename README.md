@@ -18,6 +18,8 @@ Modular and scalable project structure
 ### Clone the repository
 ```
 git clone https://github.com/Chaitanya-2026/User-Profiles-Management.git
+```
+```
 cd User-Profiles-Management
 ```
 
@@ -54,12 +56,17 @@ JavaScript / TypeScript – Programming language
 ## Project Structure
 ```
 src/
-├── assets/        # Images, Fonts, Icons
-├── components/    # Reusable React components
-├── pages/         # Page components (User List, User Details, etc.)
-├── App.jsx        # Main app component
-├── main.jsx       # Entry point
-└── index.css      # Tailwind CSS imports
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+ ├── components/
+ │    ├── Auth.jsx
+ │    ├── UserList.jsx
+ │    ├── AddUserModal.jsx
+ │    └── ProfileEditor.jsx
+ └── utils/
+      └── localStorage.js
+
 ```
 
 ### License
